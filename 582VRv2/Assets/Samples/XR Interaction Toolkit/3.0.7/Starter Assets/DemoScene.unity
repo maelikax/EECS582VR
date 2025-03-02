@@ -2016,6 +2016,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c6604fc50e115d42bf649ae0699d387, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  targetTag: Block
+  transparentBoxPrefab: {fileID: 7988231833376432579, guid: a7ac17542e287834a8cbed697f9a538a, type: 3}
 --- !u!65 &1135305582
 BoxCollider:
   m_ObjectHideFlags: 0
