@@ -1,0 +1,93 @@
+{
+    "name": "XRInputActions",
+    "maps": [
+        {
+            "name": "RIghthand Controller",
+            "id": "980a2409-d792-4100-9972-d681e0e15099",
+            "actions": [
+                {
+                    "name": "MoveCloser",
+                    "type": "Value",
+                    "id": "ea71d5d1-5d5d-412e-97d8-e4d75a610c56",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "MoveFarther",
+                    "type": "Value",
+                    "id": "4597714b-5bb7-4c74-afdf-ae1f8b31f39a",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "8e1cf2bb-8d35-496a-aafc-281981500dcd",
+                    "path": "<XRController>{RightHand}/primaryButton ",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveCloser",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "acdd633d-caed-44a2-b54a-eefa09667d7c",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveCloser",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "66e68713-2125-4faf-b12a-277a67e6a450",
+                    "path": "<XRController>{RightHand}/secondaryButton ",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MoveFarther",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "New action map",
+            "id": "35630fc8-11b6-418b-a0ed-783d02e11bc1",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "04ddf519-afeb-4351-b2d1-2709693b9a07",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "135581e5-9ccc-4e3a-ac4d-5c8f94513819",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
