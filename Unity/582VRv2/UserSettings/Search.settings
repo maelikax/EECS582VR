@@ -9,7 +9,7 @@ onBoardingDoNotAskAgain = true
 showPackageIndexes = false
 showStatusBar = false
 scopes = {
-	"picker_window_position_offset.075BCD15" = "452;455;320;550"
+	"picker_window_position_offset.075BCD15" = "-1898;63;2538;981"
 	"picker_visibility_flags.075BCD15" = "264"
 	"picker_item_size.075BCD15" = "96"
 	"picker_inspector.075BCD15" = "0"
@@ -69,6 +69,25 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	""
+	"primar"
+	"xri left in"
+	"xri "
+	"xri left interaction/build"
+	"xri left interaction"
+	"xri left han"
+	"xri right interaction/moveobject"
+	"xri right interaction"
+	"xri"
+	"move closer"
+	"x"
+	"xri r"
+	"xri right interactio"
+	"xri right "
+	"further"
+	"move"
+	"movefurther"
+	"moveclo"
 ]
 searchItemFavorites = [
 ]

@@ -10,11 +10,15 @@ TagManager:
   - Part2
   - Part3
   - Part4
+  - Propeller
+  - Cap
+  - Base
+  - Motor
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - GrabbableObjects
   - Water
   - UI
   - 
